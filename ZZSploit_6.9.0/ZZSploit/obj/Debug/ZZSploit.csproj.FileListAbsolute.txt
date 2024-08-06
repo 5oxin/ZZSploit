@@ -1,0 +1,17 @@
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit.csproj.AssemblyReference.cache
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\MainWindow.g.cs
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\App.g.cs
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit_MarkupCompile.cache
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit_MarkupCompile.lref
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\bin\Debug\ZZSploit.exe.config
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\bin\Debug\ZZSploit.exe
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\bin\Debug\ZZSploit.pdb
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\MainWindow.baml
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit.g.resources
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit.Properties.Resources.resources
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit.csproj.GenerateResource.cache
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit.csproj.CoreCompileInputs.cache
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit.csproj.CopyComplete
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit.exe
+C:\Users\default.DESKTOP-0UR79C1\Downloads\SynergyRelease\ZZSploit_6.9.0\ZZSploit\obj\Debug\ZZSploit.pdb
